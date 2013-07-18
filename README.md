@@ -12,3 +12,4 @@ Barracuda Labs http://barracudalabs.com/?page_id=3458
 
 zynga http://company.zynga.com/security/whitehats
 
+Telekom http://www.telekom.com/corporate-responsibility/security/186450
