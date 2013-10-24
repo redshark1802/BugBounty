@@ -2,7 +2,7 @@ Nokia http://www.nokia.com/global/security/acknowledgements/
 
 Yandex http://company.yandex.com/security/hall-of-fame.xml
 
-PayPal https://www.paypal.com/webapps/mpp/security-tools/wall-of-fame-honorable-mention
+PayPal https://www.paypal.com/webapps/mpp/security-tools/wall-of-fame-honorable-mention (Q1/Q2 2013)
 
 Facebook https://www.facebook.com/whitehat/thanks/
 
