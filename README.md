@@ -17,3 +17,5 @@ Telekom http://www.telekom.com/corporate-responsibility/security/186450
 Lookout https://www.lookout.com/responsible-disclosure#thanks
 
 Beanstalk http://support.beanstalkapp.com/customer/portal/articles/1317175-responsible-disclosure-policy
+
+Postmarkapp http://support.postmarkapp.com/customer/portal/articles/1317130-responsible-disclosure-policy
