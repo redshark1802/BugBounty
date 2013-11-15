@@ -23,3 +23,5 @@ Postmarkapp http://support.postmarkapp.com/customer/portal/articles/1317130-resp
 Olark http://www.olark.com/customer/portal/articles/1237352
 
 Shopify https://www.shopify.com/security-response
+
+Prezi http://prezi.com/bugbounty/whitehats/
