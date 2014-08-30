@@ -1,3 +1,7 @@
+HackerOne profile https://hackerone.com/redshark1802
+
+Yahoo https://hackerone.com/yahoo/thanks
+
 Nokia http://www.nokia.com/global/security/acknowledgements/
 
 Yandex http://company.yandex.com/security/hall-of-fame.xml
