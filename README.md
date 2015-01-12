@@ -33,3 +33,6 @@ Prezi http://prezi.com/bugbounty/whitehats/
 Kayako https://my.kayako.com/Knowledgebase/Article/View/853/185/security-vulnerability-fix-and-patch-policy
 
 Spotify https://www.spotify.com/us/about-us/contact/report-security-issues/
+
+Uber
+https://hackerone.com/uber/thanks
